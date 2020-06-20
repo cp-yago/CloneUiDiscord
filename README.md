@@ -2,6 +2,10 @@
 	<img src="/.github/assets/discord-logo.png" alt="Logo" width="300px" style="max-width:100%"/>
 </div>
 
+<div align="center">
+UI CLONE
+</div>
+
 <br>
 
 <div align="center">
