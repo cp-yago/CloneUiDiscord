@@ -13,6 +13,8 @@
 	<img src="/.github/assets/discord.gif" alt="App-Website" style="max-width:100%"/>
 </div>
 
+<br>
+
 # Cloning User Iterface of Discord Desktop
 
 The objective of this project is to practice and improve my knowledge of Front-end development using ReactJS.
@@ -24,6 +26,8 @@ The objective of this project is to practice and improve my knowledge of Front-e
  - Enjoi!
  
 <hr>
+
 <br>
-by Yago Cunha<br>
+
+by Yago Cunha <br>
 [Linkedin](https://www.linkedin.com/in/yagocunha) | [GitHub](https://github.com/cp-yago)
